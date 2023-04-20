@@ -1,1 +1,0 @@
-pessoas pessoas = new pessoas(); 
